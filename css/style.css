@@ -1,0 +1,14 @@
+.linha {
+    border-bottom: 1px solid #c9c9c9;
+    margin-bottom: 10px;
+}
+.caixa{
+    border: 1px solid black;
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input[type="file"] {
+    font-size: 80%;
+}
